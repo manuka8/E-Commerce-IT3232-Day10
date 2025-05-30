@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IctApplication<ict>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "lk.ac.vau.fas.ict.IctApplication",
+            "projectName": "ict",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
